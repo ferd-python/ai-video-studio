@@ -1,0 +1,46 @@
+{
+  "project": {
+    "title": "Les royaumes africains oubliés",
+    "format": "horizontal",
+    "resolution": "4K",
+    "fps": 30
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "duration": 30,
+      "title": "Intro",
+      "text": "Découvrez Les royaumes africains oubliés, une histoire méconnue qui mérite d'être racontée.",
+      "media": {
+        "type": "image",
+        "path": "assets/images/scene01.png"
+      },
+      "animation": "fadeIn",
+      "transition": "fade"
+    },
+    {
+      "id": 2,
+      "duration": 240,
+      "title": "Main Content",
+      "text": "Plongeons au cœur de Les royaumes africains oubliés pour en comprendre les origines et l'héritage.",
+      "media": {
+        "type": "image",
+        "path": "assets/images/scene02.png"
+      },
+      "animation": "fadeIn",
+      "transition": "fade"
+    },
+    {
+      "id": 3,
+      "duration": 30,
+      "title": "Conclusion",
+      "text": "Les royaumes africains oubliés continue d'influencer notre compréhension du monde aujourd'hui.",
+      "media": {
+        "type": "image",
+        "path": "assets/images/scene03.png"
+      },
+      "animation": "fadeIn",
+      "transition": "fade"
+    }
+  ]
+}

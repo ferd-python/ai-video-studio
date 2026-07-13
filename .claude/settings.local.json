@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(pip show *)",
+      "Bash(pip list *)",
+      "Bash(awk '/^## 9\\\\./,/^## 10\\\\./' docs/SPEC.md)",
+      "Bash(python -m py_compile providers/huggingface_provider.py providers/provider_factory.py core/huggingface_provider_demo.py)",
+      "Bash(env)",
+      "Bash(gh auth *)",
+      "Bash(grep -rIlE \"\\(api[_-]?key|secret|password|token\\)\\\\s*=\\\\s*['\\\\\"][A-Za-z0-9]{10,}\" \"D:/claude-projets/ai-video-studio\" --include=\"*.py\" --include=\"*.js\" --include=\"*.ts\" --include=\"*.json\" --include=\"*.md\")",
+      "Read(//d/claude-projets/LandingPage-Coach-Sportif/**)",
+      "Bash(gh repo *)",
+      "Bash(git init *)",
+      "Bash(git add *)"
+    ]
+  }
+}

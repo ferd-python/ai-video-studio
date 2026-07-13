@@ -1,0 +1,8 @@
+# AI Video Studio - default providers
+# Interchangeable per docs/SPEC.md section 9. Change values here, not in code.
+
+image_provider: pollinations
+animation_provider: wan
+voice_provider: kokoro
+subtitle_provider: whisper
+render_provider: remotion

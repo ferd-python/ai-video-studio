@@ -1,0 +1,9 @@
+# AI Video Studio - main folder locations
+# Paths are relative to the project root. Loaded by core/config_manager.py.
+
+assets: assets
+projects: projects
+output: output
+logs: logs
+remotion: remotion
+workflow: workflow

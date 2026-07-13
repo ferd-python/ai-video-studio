@@ -1,0 +1,37 @@
+{
+  "title": "Les royaumes africains oubliés",
+  "description": "Documentaire sur Les royaumes africains oubliés, généré à partir du template youtube_documentary.",
+  "style": "cinematic documentary",
+  "scenes": [
+    {
+      "id": 1,
+      "section": "intro",
+      "duration": 30,
+      "text": "Découvrez Les royaumes africains oubliés, une histoire méconnue qui mérite d'être racontée.",
+      "media": {
+        "type": "image",
+        "path": "assets/images/scene01.png"
+      }
+    },
+    {
+      "id": 2,
+      "section": "main_content",
+      "duration": 240,
+      "text": "Plongeons au cœur de Les royaumes africains oubliés pour en comprendre les origines et l'héritage.",
+      "media": {
+        "type": "image",
+        "path": "assets/images/scene02.png"
+      }
+    },
+    {
+      "id": 3,
+      "section": "conclusion",
+      "duration": 30,
+      "text": "Les royaumes africains oubliés continue d'influencer notre compréhension du monde aujourd'hui.",
+      "media": {
+        "type": "image",
+        "path": "assets/images/scene03.png"
+      }
+    }
+  ]
+}

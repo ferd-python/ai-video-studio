@@ -1,0 +1,19 @@
+{
+  "type": "youtube_documentary",
+  "duration_minutes": 5,
+  "style": "cinematic documentary",
+  "structure": [
+    {
+      "section": "intro",
+      "duration_seconds": 30
+    },
+    {
+      "section": "main_content",
+      "duration_seconds": 240
+    },
+    {
+      "section": "conclusion",
+      "duration_seconds": 30
+    }
+  ]
+}

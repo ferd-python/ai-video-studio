@@ -1,0 +1,12 @@
+# Secrets - never commit real environment values (see .env.example)
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Node / Remotion
+node_modules/
+
+# External tools (installed locally, not part of this repo's source)
+tools/ComfyUI/

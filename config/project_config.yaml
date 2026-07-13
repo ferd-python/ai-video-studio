@@ -1,0 +1,20 @@
+project:
+  name: AI Video Studio
+  version: 1.0
+
+video:
+  default_resolution: 4K
+  formats:
+    - vertical
+    - horizontal
+
+audio:
+  default_language: fr
+
+workflow:
+  script: true
+  images: true
+  animation: true
+  voice: true
+  subtitles: true
+  rendering: true

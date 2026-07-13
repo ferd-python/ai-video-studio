@@ -1,0 +1,9 @@
+# AI Video Studio - default settings
+# Loaded by core/config_manager.py. Change values here, not in code.
+
+language: fr
+fps: 30
+resolution: 4K
+format: horizontal
+codec: h264
+quality: high

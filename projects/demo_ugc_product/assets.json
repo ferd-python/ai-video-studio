@@ -1,0 +1,54 @@
+[
+  {
+    "project_id": "b5127792",
+    "name": "user_photo.jpg",
+    "type": "image",
+    "source": "user",
+    "file_path": "D:\\claude-projets\\ai-video-studio\\projects\\demo_ugc_product\\input\\images\\user_photo.jpg",
+    "asset_id": "fcdd89ae",
+    "created_at": "2026-07-11T20:23:07",
+    "metadata": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  {
+    "project_id": "b5127792",
+    "name": "brand_logo.png",
+    "type": "logo",
+    "source": "user",
+    "file_path": "D:\\claude-projets\\ai-video-studio\\projects\\demo_ugc_product\\input\\images\\brand_logo.png",
+    "asset_id": "a83e5917",
+    "created_at": "2026-07-11T20:23:07",
+    "metadata": {
+      "transparent": true
+    }
+  },
+  {
+    "project_id": "b5127792",
+    "name": "product_clip.mp4",
+    "type": "video",
+    "source": "stock",
+    "file_path": "D:\\claude-projets\\ai-video-studio\\projects\\demo_ugc_product\\input\\videos\\product_clip.mp4",
+    "asset_id": "39639312",
+    "created_at": "2026-07-11T20:23:07",
+    "metadata": {
+      "duration_s": 12
+    }
+  },
+  {
+    "project_id": "b5127792",
+    "name": "scene_01_intro.png",
+    "type": "image",
+    "source": "ai",
+    "file_path": "D:\\claude-projets\\ai-video-studio\\projects\\demo_ugc_product\\generated\\scene_01_intro.png",
+    "asset_id": "615768a6",
+    "created_at": "2026-07-11T20:48:58",
+    "metadata": {
+      "scene": "scene_01_intro",
+      "prompt": "A close-up product shot on a clean white background, studio lighting",
+      "provider": "mock",
+      "style": "product_shot"
+    }
+  }
+]

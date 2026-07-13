@@ -1,0 +1,27 @@
+{
+  "name": "remotion",
+  "version": "1.0.0",
+  "description": "AI Video Studio - Remotion rendering engine",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts DemoVideo ../output/demo-video.mp4",
+    "render:dynamic": "remotion render src/index.ts DynamicVideo ../output/test-dynamic-video.mp4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@remotion/cli": "^4.0.488",
+    "@remotion/renderer": "^4.0.488",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "remotion": "^4.0.488"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^5.6.3"
+  }
+}
